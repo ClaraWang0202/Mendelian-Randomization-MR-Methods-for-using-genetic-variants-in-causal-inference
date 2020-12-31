@@ -1,0 +1,1 @@
+# Mendelian-Randomization-MR-Methods-for-using-genetic-variants-in-causal-inference
